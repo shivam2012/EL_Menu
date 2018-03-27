@@ -1,0 +1,55 @@
+.jumbotron{
+    margin: 0px auto;
+    padding: 70px 30px 70px 30px;
+    background-color: #9575CD;   
+    color: floralwhite; 
+}
+
+.footer{
+    background-color: #D1C4E9;
+    padding: 25px 0px 0px 0px;
+}
+
+.row-header{
+    margin:0px auto;
+    padding:0px;
+}
+.row-content{
+    min-height: 400px;
+    padding: 20px 0px;
+    border-bottom: 1px ridge;
+    margin: 0px auto;
+}
+
+.navbar-inverse{
+    background-color: #563D7C;
+}
+body{
+    padding:25px 0px 0px 0px;
+    z-index: 0;
+}
+.tab-content{
+    border-left: 1px solid #ddd;
+    border-right: 1px solid #ddd;
+    border-bottom: 1px solid #ddd;
+}
+.carousel{
+    background-color: #512DA8;
+}
+.carousel-item{
+    height: 300px;
+}
+.carousel-item img{
+    position: absolute;
+    top:0;
+    left:0;
+    min-height: 300px;
+}
+.carousel-caption{
+    padding-bottom:60px;
+}
+#carousel-button{
+    position:absolute;
+    right:0px;
+    bottom:0px;
+}
